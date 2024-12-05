@@ -27,8 +27,8 @@ h1{
     text-align: center;
     padding: 1em 0;
     text-decoration: none;
-    background-color: #FF00FF;
-    color: magenta;
+    background-color: #pink;
+    color: black;
     font-weight: bold;
 }
 #nav_menu a.current {
