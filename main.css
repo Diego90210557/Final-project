@@ -50,3 +50,8 @@ h1{
     clear: both;
     display: block;
 }
+footer p {
+	text-align: center;
+	color: white;
+	padding: 1em 0;
+}
