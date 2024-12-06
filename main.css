@@ -11,6 +11,9 @@ body{
 h1{
   text-align:center;
 }
+header img{
+	float:right;
+}
   
   #nav_menu ul {
 	list-style-type: none;
