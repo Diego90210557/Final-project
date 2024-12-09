@@ -52,3 +52,7 @@ header img{
     clear: both;
     display: block;
 }
+footer p {
+	text-align: center;
+	padding: 1em 0;
+}
